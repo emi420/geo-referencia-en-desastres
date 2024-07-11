@@ -1,4 +1,4 @@
-![image](https://emi420.github.io/geo-referencia-en-desastres/img/header.png)
+![image](https://raw.githubusercontent.com/emi420/geo-referencia-en-desastres/main/img/header.png)
 
 ### Los incendios forestales son un problema creciente potenciado por el cambio climático. Tanto los equipos profesionales que trabajan en el combate de incendios, como los organismos de la sociedad civil y las mismas comunidades pueden trabajar en conjunto antes, durante y después del fuego utilizando los sistemas digitales de geo-referencia para desastres que se encuentran disponibles de forma libre para todo el mundo.
 
@@ -10,7 +10,7 @@ El Hub LAC se estableció en 2023 con la intención de localizar acciones que av
 
 ## Lugar
 
-[![image](https://emi420.github.io/geo-referencia-en-desastres/img/location.png)](https://www.openstreetmap.org/?mlat=-32.6935&mlon=-64.7173#map=16/-32.6935/-64.7173)
+[![image](https://raw.githubusercontent.com/emi420/geo-referencia-en-desastres/main/img/location.png)](https://www.openstreetmap.org/?mlat=-32.6935&mlon=-64.7173#map=16/-32.6935/-64.7173)
   
 ## Agenda
 
