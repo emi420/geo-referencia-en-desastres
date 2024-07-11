@@ -1,0 +1,15 @@
+{
+    "name": "geo-referencia-en-desastresr",
+    "version": "0.1.0",
+    "private": false,
+    "homepage": "https://emi420.github.io/geo-referencia-en-desastres",
+    "dependencies": {
+    },
+    "scripts": {
+      "deploy": "gh-pages -d public"
+    },
+    "devDependencies": {
+      "gh-pages": "^6.1.1"
+    }
+  }
+  

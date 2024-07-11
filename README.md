@@ -1,16 +1,16 @@
-# Taller de Geo-referencia en Desastres
-
-## Edición: Incendios Forestales
+![image](https://emi420.github.io/geo-referencia-en-desastres/img/header.png)
 
 ### Los incendios forestales son un problema creciente potenciado por el cambio climático. Tanto los equipos profesionales que trabajan en el combate de incendios, como los organismos de la sociedad civil y las mismas comunidades pueden trabajar en conjunto antes, durante y después del fuego utilizando los sistemas digitales de geo-referencia para desastres que se encuentran disponibles de forma libre para todo el mundo.
-En este taller proponemos aprender a usar herramientas y tecnologías libres y datos abiertos de geo-referencia en desastres, a través de una solución integrada que abarca desde la toma de imágenes con drones y la creación de mapas que pueden compartirse sin conexión a internet, hasta el uso de estos mapas durante los desastres, enfocándonos en esta edición en los incendios forestales.
-Esta actividad es organizada por la organización humanitaria HOT y El Hub de Mapeo Abierto de Latinoamérica y Caribe.
 
 ## ¿Qué es HOT y el Hub de Mapeo Abierto de Latinoamérica y Caribe?
 
 El Equipo Humanitario de OpenStreetMap (HOT) es una organización global dedicada a la acción humanitaria mediante el uso del mapeo participativo y los datos abiertos. Apoyan a una comunidad global de miles de colaboradores voluntarios que crean y usan datos abiertos ciudadanos para la respuesta humanitaria y el desarrollo de Objetivos de Desarrollo Sostenible.
 En América Latina y el Caribe (LAC), enfrentamos desastres causados por fenómenos naturales, junto con muchos otros desafíos para nuestro medio ambiente y desarrollo sostenible, dentro de un marco de diversidad y desigualdad pronunciada.
 El Hub LAC se estableció en 2023 con la intención de localizar acciones que avancen en las prácticas de mapeo de impacto social entre grupos diversos. Creemos firmemente que el mapeo de impacto social puede ser un catalizador para el cambio social y económico en la región de LAC.
+
+## Lugar
+
+[![image](https://emi420.github.io/geo-referencia-en-desastres/img/location.png)](https://www.openstreetmap.org/?mlat=-32.6935&mlon=-64.7173#map=16/-32.6935/-64.7173)
   
 ## Agenda
 
